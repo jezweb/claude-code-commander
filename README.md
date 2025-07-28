@@ -20,7 +20,18 @@ Claude Code Commander provides battle-tested agent templates that extend Claude 
 
 ## 📦 Quick Start
 
-Claude Code can install the agents for you:
+Before you install the agents, the Cloudflare Agent assumes it will have access to the Cloudflare Docs MCP
+
+Cloudflare Docs
+Just run the following command from your command line and claude will install it. 
+
+claude mcp add --transport sse cloudflare-docs -s user https://docs.mcp.cloudflare.com/sse
+
+More info about Cloudflare mcps here
+https://developers.cloudflare.com/agents/model-context-protocol/mcp-servers-for-cloudflare/
+
+
+##Claude Code can install the agents for you:
 
 ### 0. Tell Claude Code
 install the claude code sub agents from 
@@ -33,6 +44,8 @@ https://github.com/jezweb/claude-code-commander
 
 <img width="723" height="814" alt="claude-code-commander-02" src="https://github.com/user-attachments/assets/10de9eda-4e5d-4fe1-9b5a-a4d9cdfcc531" />
 
+
+## Manual Installation
 
 ### 1. Clone the Repository
 
