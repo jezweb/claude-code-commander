@@ -20,6 +20,20 @@ Claude Code Commander provides battle-tested agent templates that extend Claude 
 
 ## 📦 Quick Start
 
+Claude Code can install the agents for you:
+
+### 0. Tell Claude Code
+install the claude code sub agents from 
+https://github.com/jezweb/claude-code-commander
+
+<img width="780" height="1384" alt="claude-code-commander-01" src="https://github.com/user-attachments/assets/89044d0f-8866-45aa-aa5b-9177ee365ead" />
+
+
+### Once installation is complete, you need to exit claude code and then re-open it!
+
+<img width="723" height="814" alt="claude-code-commander-02" src="https://github.com/user-attachments/assets/10de9eda-4e5d-4fe1-9b5a-a4d9cdfcc531" />
+
+
 ### 1. Clone the Repository
 
 ```bash
